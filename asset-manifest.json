@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Luffykun20.github.io/my-react-portfolio/static/css/main.08fe5134.css",
+    "main.js": "/https//Luffykun20.github.io/my-react-portfolio/static/js/main.e405dbe9.js",
+    "static/js/787.56d9acf9.chunk.js": "/https//Luffykun20.github.io/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "index.html": "/https//Luffykun20.github.io/my-react-portfolio/index.html",
+    "main.08fe5134.css.map": "/https//Luffykun20.github.io/my-react-portfolio/static/css/main.08fe5134.css.map",
+    "main.e405dbe9.js.map": "/https//Luffykun20.github.io/my-react-portfolio/static/js/main.e405dbe9.js.map",
+    "787.56d9acf9.chunk.js.map": "/https//Luffykun20.github.io/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08fe5134.css",
+    "static/js/main.e405dbe9.js"
+  ]
+}
