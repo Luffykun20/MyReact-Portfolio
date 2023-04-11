@@ -5,7 +5,7 @@ const projects = [
   {
     id: 0,
     title: "Password Generator",
-    image: "public/assets/password-generator.png",
+    image: "./assets/password-generator.png",
     repo: "https://github.com/Luffykun20/password-generator",
     live: "https://luffykun20.github.io/password-generator/",
   },

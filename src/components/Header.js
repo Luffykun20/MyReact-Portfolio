@@ -32,9 +32,9 @@ function Header() {
             className="navbar-item"
             rel="noreferrer"
             target="_blank"
-            href="https://github.com/cchern3"
+            href="https://github.com/Luffykun20"
           >
-            <span className="content is-large">Calvin Chern</span>
+            <span className="content is-large"></span>
           </a>
         </div>
       </nav>

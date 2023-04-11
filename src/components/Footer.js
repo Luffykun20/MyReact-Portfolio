@@ -5,7 +5,7 @@ function Footer() {
     <footer className="footer">
       <div className="content has-text-centered">
         <p>
-          <hr />
+          
           <a
             href="https://www.linkedin.com/"
             target="_blank" rel="noreferrer"
